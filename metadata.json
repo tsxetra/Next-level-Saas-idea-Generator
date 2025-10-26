@@ -1,0 +1,5 @@
+{
+  "name": "SaaS Idea Generator",
+  "description": "An AI-powered SaaS idea generator that leverages Google Trends and Gemini to create complete business concepts, including names, branding, logos, and marketing materials.",
+  "requestFramePermissions": []
+}
